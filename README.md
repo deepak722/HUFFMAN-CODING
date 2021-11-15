@@ -2,4 +2,5 @@
 STRING COMPRESSION THROUGH HUFFMAN ALGORITHM
 
 Deepak Singh
-College - Delhi Technological University
+
+Delhi Technological University
