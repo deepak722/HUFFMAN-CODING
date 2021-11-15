@@ -1,4 +1,4 @@
-# Huffman-Coding
+# Huffman Coding
 STRING COMPRESSION THROUGH HUFFMAN ALGORITHM
 
 Deepak Singh
