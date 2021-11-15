@@ -172,7 +172,7 @@ void huffman(string text)
     //***************************************************************
     //  PRINTING OF ORIGINAL STRING
     //***************************************************************
-    cout << "\nThe original string is : \n"
+    cout << "\nThe original string is : "
          << text << endl;
 
     string str;
@@ -186,9 +186,9 @@ void huffman(string text)
     //  PRINTING OF DECODED STRING
     //***************************************************************
 
-    cout << "\nThe encoded string is :\n"
-         << str << "  Size of encoded string : " << str.length() << endl;
-    cout << "\nThe decoded string is :\n";
+    cout << "\nThe encoded string is : "
+         << str << "\n\nSize of encoded string : " << str.length();
+    cout << "\n\nThe decoded string is : ";
 
     if (isLeaf(root))
     {
