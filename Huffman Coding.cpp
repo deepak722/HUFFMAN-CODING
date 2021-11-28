@@ -216,7 +216,7 @@ void huffman(string text)
 void intro()
 {
     cout << "HUFFMAN CODING";
-    cout << "\nMADE BY : DEEPAK SINGH (2K20/MC/38)";
+    cout << "\nMADE BY : DEEPAK SINGH";
     cout << "\nCOLLEGE : DELHI TECHNOLOGICAL UNIVERSITY";
 }
 
